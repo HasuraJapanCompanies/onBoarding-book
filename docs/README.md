@@ -1,5 +1,5 @@
 ---
-sidebar_label: 概要
+sidebar_label: 本書の概要
 slug: /README
 ---
 
