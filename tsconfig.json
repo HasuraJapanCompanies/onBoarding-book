@@ -13,7 +13,6 @@
     "skipLibCheck": true,
     "types": [
       "node",
-      "jest",
       "@docusaurus/module-type-aliases",
       "@docusaurus/theme-classic"
     ]
